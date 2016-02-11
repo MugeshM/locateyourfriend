@@ -5,8 +5,5 @@
   "start":"index.js",
   "dependencies": {
     "express": "4.13.4","socket.io": "1.4.5","mongoose":"4.4.2","jquery":"2.2.0"
-  },
-  "engines": {
-    "node": "4.2.6"
   }
 }
