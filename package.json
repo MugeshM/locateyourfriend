@@ -2,7 +2,11 @@
   "name": "locateyourfriend",
   "version": "0.0.1",
   "description": "locateyourfriend",
+  "start":"index.js",
   "dependencies": {
     "express": "4.13.4","socket.io": "latest"
-  }
+  },
+   "engines": {
+    "node": "4.2.6"
+  },
 }
