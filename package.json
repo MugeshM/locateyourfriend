@@ -4,5 +4,8 @@
   "description": "locateyourfriend",
   "dependencies": {
     "express": "4.13.4","socket.io": "latest"
-  }
+  },
+  "engines": {
+    "node": "4.2.6"
+  },
 }
