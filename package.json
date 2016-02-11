@@ -1,8 +1,8 @@
 {
-  "name": "mongodbchat",
+  "name": "locateyourfriend",
   "version": "0.0.1",
-  "description": "chat application using mongodb",
+  "description": "locateyourfriend",
   "dependencies": {
-    "express": "4.13.4","socket.io": "latest"
+    "express": "4.13.4","socket.io": "latest","mongoose":"latest"
   }
 }
