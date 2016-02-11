@@ -1,0 +1,8 @@
+{
+  "name": "mongodbchat",
+  "version": "0.0.1",
+  "description": "chat application using mongodb",
+  "dependencies": {
+    "express": "4.13.4","socket.io": "latest"
+  }
+}
