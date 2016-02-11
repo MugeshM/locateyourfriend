@@ -6,7 +6,11 @@
   "dependencies": {
     "express": "4.13.4","socket.io": "latest"
   },
+<<<<<<< HEAD
    "engines": {
+=======
+  "engines": {
+>>>>>>> deba947ab3ef041002711ef47c3771bda4b6d2a2
     "node": "4.2.6"
   },
 }
